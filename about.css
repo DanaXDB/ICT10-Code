@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    font-size: larger;
+}
+
+.paragraph-1 {
+    transform: translateY(100px);
+}
+
+.paragraph-2 {
+    transform: translateY(107px);
+}
+
+.paragraph-3 {
+    transform: translateY(117px);
+}
+.header-1 {
+    font-family: verdana; 
+    color: black; 
+    text-align: center; 
+    background-color: rgb(22, 82, 94); 
+    color: whitesmoke; 
+    transform: translateY(50PX);
+}
+
+.a {
+    font-size: x-large;
+    color: black;
+}
